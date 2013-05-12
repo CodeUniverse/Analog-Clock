@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Analog Clock</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Analog Clock Tutorial</string>
+    <string name="website">Visit Website</string>
+    <string name="toast">Now open app launcher and add the \'Analog Clock - CodeUniverse\' widget to your home screen</string>
+    <string name="start">Start Here</string>
+
+</resources>
